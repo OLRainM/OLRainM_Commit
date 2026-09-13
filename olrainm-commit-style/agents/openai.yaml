@@ -1,0 +1,4 @@
+interface:
+  display_name: "OLRainM Commit Style"
+  short_description: "Write Chinese Conventional Commits in OLRainM's style"
+  default_prompt: "Use $olrainm-commit-style to write a commit message for my current changes."
